@@ -1,4 +1,4 @@
-# XYZ Software Company CI/CD Pipeline Implementation
+# CI/CD Pipeline Implementation
 
 ## Project Overview
 
